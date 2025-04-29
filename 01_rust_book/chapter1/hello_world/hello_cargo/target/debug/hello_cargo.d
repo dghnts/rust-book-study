@@ -1,0 +1,1 @@
+/home/dghnts/github/rust-book-study/01_rust_book/chapter1/hello_world/hello_cargo/target/debug/hello_cargo: /home/dghnts/github/rust-book-study/01_rust_book/chapter1/hello_world/hello_cargo/src/main.rs
